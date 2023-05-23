@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T08:36:43.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="15wJTCThbnYUCYwPDsG_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T08:39:35.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5PMALgezck_I3c2tAizg" version="21.3.2" type="github">
   <diagram name="Page-1" id="ewrPoNHUHaw7HHpMCDvH">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tEpLH3CqAMYvzMPHlKIx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tEpLH3CqAMYvzMPHlKIx-1" target="tEpLH3CqAMYvzMPHlKIx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tEpLH3CqAMYvzMPHlKIx-1" value="Owner&lt;br&gt;Yuda Ariyanto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tEpLH3CqAMYvzMPHlKIx-2" value="Leader&lt;br&gt;Encep Kurniawan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tEpLH3CqAMYvzMPHlKIx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tEpLH3CqAMYvzMPHlKIx-3" target="tEpLH3CqAMYvzMPHlKIx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tEpLH3CqAMYvzMPHlKIx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tEpLH3CqAMYvzMPHlKIx-3" target="tEpLH3CqAMYvzMPHlKIx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tEpLH3CqAMYvzMPHlKIx-3" value="Manajer Operasional&lt;br&gt;Dio Risdanu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tEpLH3CqAMYvzMPHlKIx-4" value="Crew" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
