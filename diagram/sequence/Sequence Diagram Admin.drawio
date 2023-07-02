@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T07:41:39.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="Zf2fAW7APjM2OJkwnGMw" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T07:51:53.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="d2u-CO88gIPqNIpuWuzx" version="21.5.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1956" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2048,6 +2048,133 @@
         </mxCell>
         <mxCell id="RPhMO2sqG1kiYUMKXHXz-188" value="Contact Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="3200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-200" value=":Sistem" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="250" y="3482" width="100" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-201" value=":Kelola Appointment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="90" y="3482" width="100" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-202" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RPhMO2sqG1kiYUMKXHXz-201">
+          <mxGeometry x="205" y="83" width="10" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-203" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RPhMO2sqG1kiYUMKXHXz-201">
+          <mxGeometry x="45" y="73" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-204" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RPhMO2sqG1kiYUMKXHXz-201">
+          <mxGeometry x="365" y="90.5" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-205" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" source="RPhMO2sqG1kiYUMKXHXz-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="45" as="sourcePoint" />
+            <mxPoint x="-120" y="58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-206" value="Menghapus Data&amp;nbsp;Appointment" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" source="RPhMO2sqG1kiYUMKXHXz-203" target="RPhMO2sqG1kiYUMKXHXz-202">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="315" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="83" />
+              <mxPoint x="180" y="235" />
+              <mxPoint x="170" y="275" />
+              <mxPoint x="80" y="305" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-207" value="Data Terhapus" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" source="RPhMO2sqG1kiYUMKXHXz-202" target="RPhMO2sqG1kiYUMKXHXz-203">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="133" />
+              <mxPoint x="180" y="285" />
+              <mxPoint x="190" y="295" />
+              <mxPoint x="120" y="325" />
+              <mxPoint x="180" y="395" />
+              <mxPoint x="190" y="425" />
+              <mxPoint x="140" y="455" />
+              <mxPoint x="90" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-208" value="Delete Data&amp;nbsp;Appointment" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;startFill=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" source="RPhMO2sqG1kiYUMKXHXz-213" target="RPhMO2sqG1kiYUMKXHXz-203">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-114.99619047619036" y="265" as="sourcePoint" />
+            <mxPoint x="54.97999999999999" y="265" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-30" y="73" />
+              <mxPoint x="-25.019999999999996" y="265" />
+              <mxPoint x="-105.02" y="265" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-209" value="Tampil Data&amp;nbsp;Appointment" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" source="RPhMO2sqG1kiYUMKXHXz-203" target="RPhMO2sqG1kiYUMKXHXz-214">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="143" />
+              <mxPoint x="30" y="295" />
+              <mxPoint x="20" y="335" />
+              <mxPoint x="20" y="405" />
+              <mxPoint x="40" y="435" />
+              <mxPoint x="-30" y="475" />
+              <mxPoint x="-80" y="455" />
+              <mxPoint x="-65" y="465" />
+            </Array>
+            <mxPoint x="20" y="465" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-210" value="Menghapus Data&amp;nbsp;Appointment" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" source="RPhMO2sqG1kiYUMKXHXz-202" target="RPhMO2sqG1kiYUMKXHXz-204">
+          <mxGeometry x="0.1003" relative="1" as="geometry">
+            <mxPoint x="200" y="275" as="sourcePoint" />
+            <mxPoint x="370" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="93" />
+              <mxPoint x="270" y="285" />
+              <mxPoint x="250" y="275" />
+              <mxPoint x="210" y="295" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-211" value="Data Terhapus" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" source="RPhMO2sqG1kiYUMKXHXz-204" target="RPhMO2sqG1kiYUMKXHXz-202">
+          <mxGeometry x="0.0023" relative="1" as="geometry">
+            <mxPoint x="200" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="126" />
+              <mxPoint x="340" y="275" />
+              <mxPoint x="320" y="280" />
+              <mxPoint x="340" y="315" />
+              <mxPoint x="350" y="335" />
+              <mxPoint x="360" y="385" />
+              <mxPoint x="330" y="385" />
+              <mxPoint x="320" y="375" />
+              <mxPoint x="300" y="395" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-212" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="RPhMO2sqG1kiYUMKXHXz-201" target="RPhMO2sqG1kiYUMKXHXz-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="173" as="sourcePoint" />
+            <mxPoint x="-120" y="-15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-213" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RPhMO2sqG1kiYUMKXHXz-201">
+          <mxGeometry x="-125" y="63" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-214" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RPhMO2sqG1kiYUMKXHXz-201">
+          <mxGeometry x="-125" y="143" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-215" value=":Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="410" y="3482" width="100" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-216" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="3482" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RPhMO2sqG1kiYUMKXHXz-217" value="Appointment Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="3440" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
