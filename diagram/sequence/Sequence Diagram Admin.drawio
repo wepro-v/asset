@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T09:18:23.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="eHKZRGPJZ3M75nMEt9wr" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-02T09:39:03.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="lHDG8SG99OraYqbFHdvK" version="21.5.2" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1956" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -288,9 +288,6 @@
         </mxCell>
         <mxCell id="AbnGZHNqVaBBbmz9DV2W-54" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="-12" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AbnGZHNqVaBBbmz9DV2W-55" value="Users Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="255" y="358" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AbnGZHNqVaBBbmz9DV2W-103" value="Mengirim Data User" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="AbnGZHNqVaBBbmz9DV2W-101" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -640,9 +637,6 @@
             </Array>
             <mxPoint x="120" y="1292" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AbnGZHNqVaBBbmz9DV2W-191" value="Transaction &lt;br&gt;Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="275" y="995" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AbnGZHNqVaBBbmz9DV2W-192" value="View Data&lt;br&gt;Transaksi Detail" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="AbnGZHNqVaBBbmz9DV2W-200" target="AbnGZHNqVaBBbmz9DV2W-170" edge="1">
           <mxGeometry x="0.0023" relative="1" as="geometry">
@@ -1049,9 +1043,6 @@
             <mxPoint x="110" y="1852" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPhMO2sqG1kiYUMKXHXz-27" value="Articles Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1560" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RPhMO2sqG1kiYUMKXHXz-28" value="Mengirim Data&amp;nbsp;Article" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" source="RPhMO2sqG1kiYUMKXHXz-35" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="1902" as="sourcePoint" />
@@ -1436,9 +1427,6 @@
             <mxPoint x="110" y="2452" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPhMO2sqG1kiYUMKXHXz-82" value="Packages Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="2160" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RPhMO2sqG1kiYUMKXHXz-83" value="Mengirim Data&amp;nbsp;Package" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146" y="2462" as="sourcePoint" />
@@ -1809,9 +1797,6 @@
             <mxPoint x="110" y="3052" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPhMO2sqG1kiYUMKXHXz-136" value="Galleries Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2760" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RPhMO2sqG1kiYUMKXHXz-149" value="Menghapus Data&amp;nbsp;Gallery" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" source="RPhMO2sqG1kiYUMKXHXz-121" target="RPhMO2sqG1kiYUMKXHXz-117" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="3312" as="sourcePoint" />
@@ -2057,9 +2042,6 @@
             </Array>
             <mxPoint x="110" y="3532" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RPhMO2sqG1kiYUMKXHXz-241" value="Contacts Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RPhMO2sqG1kiYUMKXHXz-242" value="Menghapus Data&amp;nbsp;Contacts&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" source="RPhMO2sqG1kiYUMKXHXz-226" target="RPhMO2sqG1kiYUMKXHXz-222" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -2307,9 +2289,6 @@
             <mxPoint x="110" y="4012" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPhMO2sqG1kiYUMKXHXz-276" value="Appointments Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="3720" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RPhMO2sqG1kiYUMKXHXz-277" value="Menghapus Data&amp;nbsp;Appointments&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" source="RPhMO2sqG1kiYUMKXHXz-261" target="RPhMO2sqG1kiYUMKXHXz-257" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="4272" as="sourcePoint" />
@@ -2555,9 +2534,6 @@
             </Array>
             <mxPoint x="110" y="4452" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RPhMO2sqG1kiYUMKXHXz-311" value="Testimonies Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="4160" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RPhMO2sqG1kiYUMKXHXz-312" value="Menghapus Data&amp;nbsp;Testimonies&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" source="RPhMO2sqG1kiYUMKXHXz-296" target="RPhMO2sqG1kiYUMKXHXz-292" parent="1">
           <mxGeometry relative="1" as="geometry">
