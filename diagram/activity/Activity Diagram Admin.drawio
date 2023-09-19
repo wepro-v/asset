@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T14:56:59.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="lZ42xxdE_CwJB7nF-rd-" version="21.7.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-09-19T15:39:11.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="hCyBv9TkNUV3Vomq0vED" version="21.7.5" type="github" pages="5">
   <diagram name="Page-1" id="Gzs8lpX1u0B0sLz5hb0p">
     <mxGraphModel dx="1514" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2201,7 +2201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uWDTF_5F6FclJs5-vRIB" name="Paket">
-    <mxGraphModel dx="1631" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2525,7 +2525,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Hw7rBoRn3vmvkTfe4gl9" name="Artikel">
-    <mxGraphModel dx="1927" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1116" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2950,7 +2950,7 @@
         <mxCell id="1MFW8Q92586xkKudfZwh-26" value="Pilih Data Galeri" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1MFW8Q92586xkKudfZwh-1">
           <mxGeometry x="130" y="1020" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1MFW8Q92586xkKudfZwh-27" value="Hapus Data&amp;nbsp;Artikel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1MFW8Q92586xkKudfZwh-1">
+        <mxCell id="1MFW8Q92586xkKudfZwh-27" value="Hapus Data Galeri" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1MFW8Q92586xkKudfZwh-1">
           <mxGeometry x="130" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1MFW8Q92586xkKudfZwh-28" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1MFW8Q92586xkKudfZwh-1">
